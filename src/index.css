@@ -1,19 +1,49 @@
-html,
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-  height: 100%;
+.mo-tarot-widget {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: #212121;
 }
 
-h1 {
-  margin: 0;
-  font-weight: 300;
+.mo-tarot-widget__title {
+  font-weight: bold;
+  font-size: 21px;
 }
 
-#root {
-  background: url("image.png") no-repeat 98% 2%;
-  padding: 20px;
-  height: 100%;
-  box-sizing: border-box;
+.mo-tarot-widget__name {
+  font-weight: normal;
+  font-size: 20px;
+  margin: 3px 0;
+}
+
+.mo-tarot-widget__img {
+  width: 90%;
+}
+.mo-tarot-widget__img img {
+  width: 100%;
+}
+
+.mo-tarot-widget__desc {
+  font-weight: normal;
+  font-size: 18px;
+  margin: 3px 0;
+}
+
+.mo-tarot-widget__link a {
+  text-decoration: underline;
+}
+
+.mo-tarot-widget__link a:link,
+.mo-tarot-widget__link a:visited {
+  color: #212121;
+  text-decoration: underline;
+}
+
+.mo-tarot-widget__link a:hover,
+.mo-tarot-widget__link a:active {
+  color: #0000ee;
+  text-decoration: underline;
 }

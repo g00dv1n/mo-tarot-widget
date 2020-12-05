@@ -2,3 +2,8 @@ node_modules
 .vscode
 .DS_Store
 ./**/.DS_Store
+
+build/*
+!build/index.html
+!build/images
+!build/images/*

@@ -1,90 +1,90 @@
 {
   "the-fool": {
-    "title": "The fool",
+    "name": "The fool",
     "desc": "bla bla"
   },
   "the-magician": {
-    "title": "The magician",
+    "name": "The magician",
     "desc": "bla bla"
   },
   "the-high-priestess": {
-    "title": "The high priestess",
+    "name": "The high priestess",
     "desc": "bla bla"
   },
   "the-empress": {
-    "title": "The empress",
+    "name": "The empress",
     "desc": "bla bla"
   },
   "the-emperor": {
-    "title": "The emperor",
+    "name": "The emperor",
     "desc": "bla bla"
   },
   "the-hierophant": {
-    "title": "The hierophant",
+    "name": "The hierophant",
     "desc": "bla bla"
   },
   "the-lovers": {
-    "title": "The lovers",
+    "name": "The lovers",
     "desc": "bla bla"
   },
   "the-chariot": {
-    "title": "The chariot",
+    "name": "The chariot",
     "desc": "bla bla"
   },
   "strength": {
-    "title": "Strength",
+    "name": "Strength",
     "desc": "bla bla"
   },
   "the-hermit": {
-    "title": "The hermit",
+    "name": "The hermit",
     "desc": "bla bla"
   },
   "wheel-of-fortune": {
-    "title": "Wheel of fortune",
+    "name": "Wheel of fortune",
     "desc": "bla bla"
   },
   "justice": {
-    "title": "Justice",
+    "name": "Justice",
     "desc": "bla bla"
   },
   "the-hanged-man": {
-    "title": "The hanged man",
+    "name": "The hanged man",
     "desc": "bla bla"
   },
   "death": {
-    "title": "Death",
+    "name": "Death",
     "desc": "bla bla"
   },
   "temperance": {
-    "title": "Temperance",
+    "name": "Temperance",
     "desc": "bla bla"
   },
   "the-devil": {
-    "title": "The devil",
+    "name": "The devil",
     "desc": "bla bla"
   },
   "the-tower": {
-    "title": "The tower",
+    "name": "The tower",
     "desc": "bla bla"
   },
   "the-star": {
-    "title": "The star",
+    "name": "The star",
     "desc": "bla bla"
   },
   "the-moon": {
-    "title": "The moon",
+    "name": "The moon",
     "desc": "bla bla"
   },
   "the-sun": {
-    "title": "The sun",
+    "name": "The sun",
     "desc": "bla bla"
   },
   "judgement": {
-    "title": "Judgement",
+    "name": "Judgement",
     "desc": "bla bla"
   },
   "the-world": {
-    "title": "The world",
+    "name": "The world",
     "desc": "bla bla"
   }
 }
