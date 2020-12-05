@@ -1,90 +1,90 @@
 {
   "the-fool": {
-    "name": "The fool",
-    "desc": "bla bla"
+    "name": "The Fool",
+    "desc": "Boldly step into the unknown!"
   },
   "the-magician": {
-    "name": "The magician",
-    "desc": "bla bla"
+    "name": "The Magician",
+    "desc": "It's time to manifest intentions!"
   },
   "the-high-priestess": {
-    "name": "The high priestess",
-    "desc": "bla bla"
+    "name": "The High Priestess",
+    "desc": "Wait for clarity!"
   },
   "the-empress": {
-    "name": "The empress",
-    "desc": "bla bla"
+    "name": "The Empress",
+    "desc": "Enjoy the abundance!"
   },
   "the-emperor": {
-    "name": "The emperor",
-    "desc": "bla bla"
+    "name": "The Emperor",
+    "desc": "Go for it with persistence and discipline."
   },
   "the-hierophant": {
-    "name": "The hierophant",
-    "desc": "bla bla"
+    "name": "The Hierophant",
+    "desc": "Find a mentor and listen attentively."
   },
   "the-lovers": {
-    "name": "The lovers",
-    "desc": "bla bla"
+    "name": "The Lovers",
+    "desc": "Сhoose with your heart."
   },
   "the-chariot": {
-    "name": "The chariot",
-    "desc": "bla bla"
+    "name": "The Chariot",
+    "desc": "The war is over, and you are the winner!"
   },
   "strength": {
     "name": "Strength",
-    "desc": "bla bla"
+    "desc": "Tame your instincts and use them."
   },
   "the-hermit": {
-    "name": "The hermit",
-    "desc": "bla bla"
+    "name": "The Hermit",
+    "desc": "Take time to explore yourself."
   },
   "wheel-of-fortune": {
-    "name": "Wheel of fortune",
-    "desc": "bla bla"
+    "name": "Wheel of Fortune",
+    "desc": "You'll get lucky!"
   },
   "justice": {
     "name": "Justice",
-    "desc": "bla bla"
+    "desc": "Get what you deserve: reward or retribution?"
   },
   "the-hanged-man": {
-    "name": "The hanged man",
-    "desc": "bla bla"
+    "name": "The Hanged Man",
+    "desc": "Look at the situation from a different angle."
   },
   "death": {
     "name": "Death",
-    "desc": "bla bla"
+    "desc": "Let go of what no longer serves you."
   },
   "temperance": {
     "name": "Temperance",
-    "desc": "bla bla"
+    "desc": "Be patient: your wishes are about to come true."
   },
   "the-devil": {
-    "name": "The devil",
-    "desc": "bla bla"
+    "name": "The Devil",
+    "desc": "Warning! Resist temptation!"
   },
   "the-tower": {
-    "name": "The tower",
-    "desc": "bla bla"
+    "name": "The Tower",
+    "desc": "Whatever happens, happens for the best."
   },
   "the-star": {
-    "name": "The star",
-    "desc": "bla bla"
+    "name": "The Star",
+    "desc": "Your cherished dream comes true!"
   },
   "the-moon": {
-    "name": "The moon",
-    "desc": "bla bla"
+    "name": "The Moon",
+    "desc": "Try to find the truth among illusions."
   },
   "the-sun": {
-    "name": "The sun",
-    "desc": "bla bla"
+    "name": "The Sun",
+    "desc": "Happiness is here and now!"
   },
   "judgement": {
     "name": "Judgement",
-    "desc": "bla bla"
+    "desc": "Say Yes to change - it will bring you happiness."
   },
   "the-world": {
-    "name": "The world",
-    "desc": "bla bla"
+    "name": "The World",
+    "desc": "And they lived happily ever after!"
   }
 }
