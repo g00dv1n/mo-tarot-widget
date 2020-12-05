@@ -24,12 +24,14 @@ const banner = `
 
 module.exports = {
   mode: "production",
-  devtool: 'source-map',
-  entry: './src/index.js',
+  entry: {
+    index: './src/index.js',
+    automount: './src/automount.js',
+  },
   output: {
-    filename: 'index.js',
+    filename: '[name].min.js',
     path: path.resolve(__dirname, 'build'),
-    library: 'MyLibrary',
+    library: 'TarotWidget',
     libraryTarget: 'umd'
   },
   optimization: {
