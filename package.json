@@ -1,7 +1,7 @@
 {
-  "name": "@hodgef/js-library-boilerplate-basic",
-  "version": "1.4.61",
-  "description": "Javascript Minimal Starter Kit for building libraries",
+  "name": "mo-tarot-widget",
+  "version": "1.0.0",
+  "description": "Tarot widget for website",
   "main": "build/index.js",
   "scripts": {
     "build": "webpack",
@@ -11,18 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hodgef/js-library-boilerplate-basic"
+    "url": "https://github.com/g00dv1n/mo-tarot-widget"
   },
-  "author": "Francisco Hodge <hello@franciscohodge.com> (https://github.com/hodgef)",
+  "author": "Alex Brik <mr.alex.brik@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hodgef/js-library-boilerplate-basic/issues"
+    "url": "https://github.com/g00dv1n/mo-tarot-widget/issues"
   },
-  "homepage": "https://github.com/hodgef/js-library-boilerplate-basic",
+  "homepage": "https://github.com/g00dv1n/mo-tarot-widget",
   "keywords": [
-    "library",
-    "starter",
-    "es6"
+    "widget",
+    "tarot"
   ],
   "devDependencies": {
     "@babel/cli": "^7.12.8",
@@ -45,7 +44,9 @@
     "webpack": "^5.9.0",
     "webpack-cli": "^4.2.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "js-cookie": "^2.2.1"
+  },
   "jest": {
     "moduleNameMapper": {
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/scripts/testMock.js",

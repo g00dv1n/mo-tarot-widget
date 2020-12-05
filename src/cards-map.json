@@ -1,0 +1,90 @@
+{
+  "the-fool": {
+    "title": "The fool",
+    "desc": "bla bla"
+  },
+  "the-magician": {
+    "title": "The magician",
+    "desc": "bla bla"
+  },
+  "the-high-priestess": {
+    "title": "The high priestess",
+    "desc": "bla bla"
+  },
+  "the-empress": {
+    "title": "The empress",
+    "desc": "bla bla"
+  },
+  "the-emperor": {
+    "title": "The emperor",
+    "desc": "bla bla"
+  },
+  "the-hierophant": {
+    "title": "The hierophant",
+    "desc": "bla bla"
+  },
+  "the-lovers": {
+    "title": "The lovers",
+    "desc": "bla bla"
+  },
+  "the-chariot": {
+    "title": "The chariot",
+    "desc": "bla bla"
+  },
+  "strength": {
+    "title": "Strength",
+    "desc": "bla bla"
+  },
+  "the-hermit": {
+    "title": "The hermit",
+    "desc": "bla bla"
+  },
+  "wheel-of-fortune": {
+    "title": "Wheel of fortune",
+    "desc": "bla bla"
+  },
+  "justice": {
+    "title": "Justice",
+    "desc": "bla bla"
+  },
+  "the-hanged-man": {
+    "title": "The hanged man",
+    "desc": "bla bla"
+  },
+  "death": {
+    "title": "Death",
+    "desc": "bla bla"
+  },
+  "temperance": {
+    "title": "Temperance",
+    "desc": "bla bla"
+  },
+  "the-devil": {
+    "title": "The devil",
+    "desc": "bla bla"
+  },
+  "the-tower": {
+    "title": "The tower",
+    "desc": "bla bla"
+  },
+  "the-star": {
+    "title": "The star",
+    "desc": "bla bla"
+  },
+  "the-moon": {
+    "title": "The moon",
+    "desc": "bla bla"
+  },
+  "the-sun": {
+    "title": "The sun",
+    "desc": "bla bla"
+  },
+  "judgement": {
+    "title": "Judgement",
+    "desc": "bla bla"
+  },
+  "the-world": {
+    "title": "The world",
+    "desc": "bla bla"
+  }
+}
