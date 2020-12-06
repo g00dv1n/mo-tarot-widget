@@ -1,5 +1,5 @@
 <h1 align="center">Tarot widget for Website</h1>
-<p align="center"><i>Super tiny (only 4kb minified) javascript library to add awesome tarot widget to your website. </i></p>
+<p align="center"><i>Super tiny (only 4kb minified) javascript library to add awesome Tarot widget to your website. </i></p>
 <p align="center">
   <img src="https://github.com/g00dv1n/mo-tarot-widget/raw/master/screenshots/tarot-widget-example.png?raw=true" alt="Tarot widget for website" style="max-width:75%;">
 </p>
