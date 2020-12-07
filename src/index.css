@@ -5,7 +5,7 @@
   align-items: center;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  color: #212121;
+  line-height: 1.2;
 }
 
 .mo-tarot-widget__title {
@@ -38,7 +38,7 @@
 
 .mo-tarot-widget__link a:link,
 .mo-tarot-widget__link a:visited {
-  color: #212121;
+  color: inherit;
   text-decoration: underline;
 }
 
