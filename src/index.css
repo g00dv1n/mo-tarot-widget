@@ -34,6 +34,7 @@
 
 .mo-tarot-widget__link a {
   text-decoration: underline;
+  font-size: 16px;
 }
 
 .mo-tarot-widget__link a:link,
