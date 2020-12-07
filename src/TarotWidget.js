@@ -22,8 +22,12 @@ class TarotWidget {
   }
 
   mount() {
-    const cardOfTheDayID =
-      this.cardStateStorageLib.getCard() || this.getRandomCardID();
+    let cardOfTheDayID = this.cardStateStorageLib.getCard();
+
+    if (!cardOfTheDayID) {
+      cardOfTheDayID = this.getRandomCardID();
+      this.cardStateStorageLib.saveCard(cardOfTheDayID);
+    }
 
     const cardData = this.cardsMap[cardOfTheDayID];
 
@@ -31,7 +35,6 @@ class TarotWidget {
       this.el.innerHTML = this.renderFn(
         Object.assign({}, cardData, { id: cardOfTheDayID })
       );
-      this.cardStateStorageLib.saveCard(cardOfTheDayID);
     }
   }
 
